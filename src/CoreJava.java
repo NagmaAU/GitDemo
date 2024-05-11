@@ -9,6 +9,7 @@ public class CoreJava {
 		boolean b=true;
 		
 		System.out.println(num);
+		System.out.println(num);
 		
 		
 		
